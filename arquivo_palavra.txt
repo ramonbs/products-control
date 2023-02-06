@@ -1,0 +1,57 @@
+Produto 0
+
+Dados do Produto 
+
+Codigo: 1
+Nome: 1
+Marca: 1
+Categoria: 1
+No estoque: 1 unidades
+Fabricacao:  1/ 1/   1
+Validade:  1/ 1/   1
+Preco: R$1,00
+
+Dados do Fornecedor 
+
+Nome: 1
+
+CNPJ: 1
+
+Produto 0
+
+Dados do Produto 
+
+Codigo: 2
+Nome: 2
+Marca: 22
+Categoria: 2
+No estoque: 2 unidades
+Fabricacao:  2/ 2/   2
+Validade:  2/ 2/   2
+Preco: R$2,00
+
+Dados do Fornecedor 
+
+Nome: 2
+
+CNPJ: 2
+
+Produto 0
+
+Dados do Produto 
+
+Codigo: 3
+Nome: 3
+Marca: 3
+Categoria: 3
+No estoque: 3 unidades
+Fabricacao:  3/ 3/   3
+Validade:  3/ 3/   3
+Preco: R$3,00
+
+Dados do Fornecedor 
+
+Nome: 3
+
+CNPJ: 33
+

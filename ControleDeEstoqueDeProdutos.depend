@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638997228 source:d:\programas\codeblocks\programas\controledeestoquedeprodutos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<locale.h>
+
